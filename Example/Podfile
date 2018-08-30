@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JingDataListManager_Example' do
+  pod 'JingDataListManager', :path => '../'
+
+  target 'JingDataListManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
