@@ -1,0 +1,6 @@
+framework module JingDataListManager {
+  umbrella header "JingDataListManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_JingDataListManager_Example {
+  umbrella header "Pods-JingDataListManager_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

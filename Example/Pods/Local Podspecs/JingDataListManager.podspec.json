@@ -1,0 +1,32 @@
+{
+  "name": "JingDataListManager",
+  "version": "0.1.0",
+  "summary": "A short description of JingDataListManager.",
+  "homepage": "https://github.com/tianziyao/JingDataListManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tianziyao": "tianziyao@jingdata.com"
+  },
+  "source": {
+    "git": "https://github.com/tianziyao/JingDataListManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "JingDataListManager/Classes/**/*",
+  "dependencies": {
+    "JingDataNetwork": [
+
+    ],
+    "MJRefresh": [
+      "3.1.15.6"
+    ],
+    "JingDataStateSwitch": [
+
+    ]
+  }
+}

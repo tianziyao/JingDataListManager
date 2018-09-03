@@ -1,0 +1,6 @@
+framework module Pods_JingDataListManager_Tests {
+  umbrella header "Pods-JingDataListManager_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
