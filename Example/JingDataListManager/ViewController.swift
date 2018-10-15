@@ -61,9 +61,8 @@ class ViewController: JingDataRefreshListController {
     
     func reloadData() {
         state = .loading
-        
     }
-
+    
 }
 
 class AAAAA: JingDataRefreshListView {

@@ -4,7 +4,7 @@ PODS:
     - JingDataNetwork
     - JingDataStateSwitch
     - MJRefresh (= 3.1.15.6)
-  - JingDataNetwork (0.3.0):
+  - JingDataNetwork (0.4.0):
     - Moya (~> 11.0)
     - ObjectMapper (~> 3.3)
     - RxCocoa (~> 4.0)
@@ -54,7 +54,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
   JingDataListManager: 578e2f2e9fe0f16d1f5fb2e83a0c67bde2a7ffff
-  JingDataNetwork: 5634e519ef5fbe832f22dae1adb93843b4880488
+  JingDataNetwork: 03a0ce355ea58c73b37101da71d32b2b793c3c2c
   JingDataPhoneScreen: fdc4c9548664da6e8d0205a3ac146a5e51fe1164
   JingDataPodResourceLoader: aa322c7ba522aa70c5adb1001d64edbbd0cae4af
   JingDataStateSwitch: 9633235ddb17834e806bb88b6927b9c4bb367882
